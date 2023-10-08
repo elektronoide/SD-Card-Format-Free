@@ -3,6 +3,7 @@
 # Author: Bocaletto Luca
 
 SD-Card Format Free is a software application developed by Luca Bocaletto to simplify the process of formatting SD memory cards. This software offers an intuitive and user-friendly interface that allows users to quickly format their SD cards in FAT32 format.
+
 ![Screenshot 2023-10-08 191449](https://github.com/elektronoide/SD-Card-Format-Free/assets/134635227/ebb17b42-bf49-4e57-a00e-d2da7859d3a7)
 
 ## Key Features
